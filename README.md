@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/TuanKietTran">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKietTran&layout=compact&theme=transparent&&size_weight=0.1&count_weight=0.9&hide=ipynb" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanKietTran&layout=compact&theme=transparent&&size_weight=0.1&count_weight=0.9&hide=ipynb,tex" />
 </a>
 <a href="https://github.com/TuanKietTran">
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=TuanKietTran&show_icons=true&theme=transparent&hide_title&hide=stars" />
