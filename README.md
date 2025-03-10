@@ -1,4 +1,5 @@
 ## Hi there 👋
 
+![TuanKietTran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKietTran&show_icons=true&theme=transparent)
 
-![TuanKietTran's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuanKietTran&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
